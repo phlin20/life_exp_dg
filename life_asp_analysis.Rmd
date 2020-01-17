@@ -13,3 +13,4 @@ knitr::opts_chunk$set(echo = TRUE)
 
 Here we will reproduce the famous plot from Oeppen and Vaupel (2002).
 
+# Analysis
