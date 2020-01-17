@@ -1,0 +1,15 @@
+---
+title: "Life Expectancy Analysis"
+author: "Pei-Hsin Lin"
+date: "`r Sys.Data()`"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Absrtact
+
+Here we will reproduce the famous plot from Oeppen and Vaupel (2002).
+
